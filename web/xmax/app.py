@@ -18,7 +18,7 @@ st.markdown("XMAXの各スポットを地図上で確認できます。")
 # CSVファイルの読み込み
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/places.csv")
+    return pd.read_csv("web/xmax/data/places.csv")
 
 df = load_data()
 
