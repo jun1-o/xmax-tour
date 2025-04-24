@@ -1,8 +1,18 @@
 name,latitude,longitude,description,note_url,image
-長谷寺,34.5198,135.8491,https://note.com/jux/n/n683c420cb936
-湯の峰温泉,33.6661,135.7792,https://note.com/your_article2,yunomine.jpg
-XMAX メインエントランス,35.0522,136.8845,メインエントランスです。ここからXMAXの冒険が始まります。,https://note.com/xmax/entry1
-XMAX アドベンチャーゾーン,35.0525,136.8848,スリル満点のアトラクションが集まるエリアです。,https://note.com/xmax/entry2
-XMAX ファンタジーゾーン,35.0528,136.8851,夢と魔法の世界が広がるエリアです。,https://note.com/xmax/entry3
-XMAX フードコート,35.0531,136.8854,様々なグルメが楽しめるエリアです。,https://note.com/xmax/entry4
-XMAX ショップ,35.0534,136.8857,お土産やグッズが揃うショップエリアです。,https://note.com/xmax/entry5
+長谷寺,34.5198,135.8491,桜と紅葉で有名な長谷寺。四季折々の美しさが楽しめる名刹。,https://note.com/your_article1,hasedera.jpg
+湯の峰温泉,33.6661,135.7792,熊野古道沿いにある歴史ある温泉地。湯筒で玉子もゆでられる。,https://note.com/your_article2,yunomine.jpg
+蒜山高原,35.3,133.6,冬の高原を眺めたツーリングログ。雪景色が美しい高原の風景。,https://note.com/your_article6,hiruzen.jpg
+倉吉,35.43,133.82,湧水巡りとDIY計画。豊かな自然と歴史が融合する街。,https://note.com/your_article7,kurayoshi.jpg
+平泉・中尊寺金色堂,38.9875,141.1083,撮影禁止看板が隠れていた特別な瞬間。金色堂の荘厳な美しさ。,https://note.com/your_article8,chusonji.jpg
+静岡（日本平・三保の松原）,35.1,138.5,富士山ビューと松原海岸の絶景。自然と歴史が調和する場所。,https://note.com/your_article9,nihondaira.jpg
+尾道,34.4,133.2,猫と景色の記憶。見晴らしの良いホテルでの特別な体験。,https://note.com/your_article10,onomichi.jpg
+東京スカイツリー,35.71,139.81,東京の新たなランドマーク。展望台からの絶景撮影。,https://note.com/your_article11,skytree.jpg
+日光東照宮,36.75,139.6,世界遺産の荘厳な建築美。歴史と文化が息づく聖地。,https://note.com/your_article12,toshogu.jpg
+二条城,35.0142,135.7478,徳川家ゆかりの世界遺産。京都の中心にある格式高い城。,https://note.com/your_article13,nijo_castle.jpg
+吉野山（桜）,34.3703,135.8552,春の絶景スポット。山一面に咲く桜が圧巻の吉野山。,https://note.com/your_article14,yoshino_sakura.jpg
+湯の花温泉,35.0172,135.6126,京都郊外にある静かな温泉地。自然と湯けむりに癒される。,https://note.com/your_article15,yunohana.jpg
+姫路城,34.8394,134.6939,白鷺城とも呼ばれる世界遺産。白く輝く城が印象的な名所。,https://note.com/your_article16,himeji_castle.jpg
+坂本龍馬像,33.496,133.555,太平洋を見つめる龍馬像。桂浜の風とともに歴史を感じる場所。,https://note.com/your_article17,ryoma_statue.jpg
+海辺の森キャンプ場（新潟）,37.9833,139.2225,日本海を望む森に囲まれた静かなキャンプ場。海も森も楽しめる。,https://note.com/your_article18,umibenomori.jpg
+野乃金沢（ドーミーイン）,36.5736,136.6525,和モダンの温泉宿。金沢駅近くで観光にも便利なホテル。,https://note.com/your_article19,nono_kanazawa.jpg
+万座高原ホテル,36.6245,138.5336,白濁の天然温泉と絶景露天風呂が魅力の高原リゾート。,https://note.com/your_article20,manza_hotel.jpg
