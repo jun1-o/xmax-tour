@@ -25,7 +25,7 @@ df = load_data()
 # 地図の中心を設定（XMAXの中心座標）
 m = folium.Map(
     location=[35.0525, 136.8850],
-    zoom_start=15,
+    zoom_start=5,
     tiles="OpenStreetMap"
 )
 
