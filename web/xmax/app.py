@@ -22,10 +22,10 @@ def load_data():
 
 df = load_data()
 
-# 地図の中心を設定（XMAXの中心座標）
+# 地図の中心を仮に設定（fit_boundsで上書きされる）
 m = folium.Map(
-    location=[35.0525, 136.8850],
-    zoom_start=5,
+    location=[35.0525, 136.8850],  # 任意の初期座標（中央日本など）
+    zoom_start=5,                 # 仮のズーム（fit_boundsで無視されることあり）
     tiles="OpenStreetMap"
 )
 
@@ -45,8 +45,13 @@ for idx, row in df.iterrows():
         tooltip=row['name']
     ).add_to(m)
 
+# ✅ 全スポットの緯度経度リストを取得してfit_boundsで地図を最適化
+bounds = [[row['latitude'], row['longitude']] for _, row in df.iterrows()]
+m.fit_bounds(bounds)
+
 # 地図を表示
 st_folium(m, width=1200, height=600)
+
 
 # スポット一覧を表示
 st.subheader("スポット一覧")
